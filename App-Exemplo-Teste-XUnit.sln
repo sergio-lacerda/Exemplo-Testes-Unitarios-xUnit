@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App-Exemplo-Teste-XUnit", "App-Exemplo-Teste-XUnit\App-Exemplo-Teste-XUnit.csproj", "{64A9789F-2910-4EAA-8140-A9D2A718B43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App-Exemplo-Teste-XUnit-Test", "App-Exemplo-Teste-XUnit-Test\App-Exemplo-Teste-XUnit-Test.csproj", "{C9CAACCE-5F6E-4E82-AD84-5AD5CC0A828A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A9789F-2910-4EAA-8140-A9D2A718B43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A9789F-2910-4EAA-8140-A9D2A718B43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A9789F-2910-4EAA-8140-A9D2A718B43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A9789F-2910-4EAA-8140-A9D2A718B43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CAACCE-5F6E-4E82-AD84-5AD5CC0A828A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CAACCE-5F6E-4E82-AD84-5AD5CC0A828A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CAACCE-5F6E-4E82-AD84-5AD5CC0A828A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CAACCE-5F6E-4E82-AD84-5AD5CC0A828A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4268F49D-3613-4550-943C-150A14150FEB}
+	EndGlobalSection
+EndGlobal
