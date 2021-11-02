@@ -3,9 +3,7 @@ Projeto de exemplo de implementação de testes unitários utilizando o xUnit ap
 
 ## Prof. Sérgio Lacerda
 
-[Linkedin](https://www.linkedin.com/in/sergiolacerda)  
-[Github](https://github.com/sergio-lacerda) 
-[Github](https://github.com/sergio-lacerda) 
+[Linkedin](https://www.linkedin.com/in/sergiolacerda)
+[Github](https://github.com/sergio-lacerda)
 [Youtube](https://www.youtube.com/channel/UCcy7WnMEtzyNZZBJvRcGpOg) 
-
 
